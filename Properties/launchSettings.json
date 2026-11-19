@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "РечевойПомощник": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
